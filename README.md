@@ -1,41 +1,40 @@
 
 <h1 align="center">Hi 👋, I'm Hussein Adel</h1>
 <h3 align="center">Full Stack .Net Developer & Malware Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husseinadel7&label=Profile%20views&color=0e75b6&style=flat" alt="husseinadel7" /> </p>
+<br>
+<img  align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/ocDxgE43TxdsFRRlR1/giphy.gif?cid=ecf05e471p9xzuow3a40by4m995ulirzazu8qttnox03m106&ep=v1_gifs_related&rid=giphy.gif&ct=g"> 
 
-<p align="left"> <a href="https://twitter.com/7usseinadel7" target="blank"><img src="https://img.shields.io/twitter/follow/7usseinadel7?logo=twitter&style=for-the-badge" alt="7usseinadel7" /></a> </p>
+
+
+<h1 align="left">About Me :</h1>
 
 - 🌱 I’m a **Full Stack .NET Developer And Malware Analyst**
 
-- 👨‍💻 All of my projects are available at [Check Them Out ](https://github.com/HusseinAdel7/Networking-Labs/tree/main/My%20Labs)
+- 👨‍💻 All of my projects are available at  [Check Them Out ](https://husseinadel7.github.io/huss3del.github.io/)
 
-- 📝 I regularly write articles on [https://husseinadel7.github.io/huss3del.github.io/categories/#Blogs](https://husseinadel7.github.io/huss3del.github.io/categories/#Blogs)
+- 📝 I regularly write articles on [Check Them Out ](https://husseinadel7.github.io/huss3del.github.io/categories/#blogs)
 
-- 💬 Ask me about **ASP.NET && Javascript && Malware Analysis**
+- 💬 Ask me about **Full Stack Development & Malware Analysis**
 
 - 📫 How to reach me **husseinadelhhh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hoxdCMrM8OCPzBQEBp0fjUEPbnl696yw/view?usp=sharing](https://drive.google.com/file/d/1hoxdCMrM8OCPzBQEBp0fjUEPbnl696yw/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
+- 📄 Know about my experiences ( My CV )==> [Check It Out ](https://drive.google.com/file/d/1hoxdCMrM8OCPzBQEBp0fjUEPbnl696yw/view?usp=sharing)
+<br>
+<h1 align="left">Connect With Me :</h1>
 <p align="left">
-<a href="https://twitter.com/7usseinadel7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7usseinadel7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hussein-adel-b46783280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-adel-b46783280" height="30" width="40" /></a>
+<a href="https://twitter.com/7usseinadel7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7usseinadel7" height="30" width="40" /></a>
 <a href="https://fb.com/hussein.adel.75641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hussein.adel.75641" height="30" width="40" /></a>
 <a href="https://instagram.com/hussein.adel7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussein.adel7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/husseinadel8665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="husseinadel8665" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hussein-2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hussein-2222" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=husseinadel7&show_icons=true&locale=en&layout=compact" alt="husseinadel7" /></p>
+<br>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <h1>Most Used Languages</h1>
+    <img align="left" src="https://github.com/HusseinAdel7/Employee_Registeration_Using_Laravel_and-Mysql/assets/84356407/29216033-4bed-48d9-99f6-c5774e6d3665" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+</div>
