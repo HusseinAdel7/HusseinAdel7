@@ -1,5 +1,7 @@
 
-<h1 align="center" style="color: #ff0000;" >Hi 👋, I'm Hussein Adel</h1>
+<h1 align="center">
+  <span style="color: red;">Hi 👋, I'm Hussein Adel</span>
+</h1>
 <h2 align="center">Full Stack .Net Developer & Malware Analyst</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husseinadel7&label=Profile%20views&color=0e75b6&style=flat" alt="husseinadel7" /> </p>
 <br>
