@@ -9,21 +9,21 @@
 
 
 
-<h1 align="left">About Me :</h1>
+<h1 align="left">About Me </h1>
 
 - 🌱 I’m a ***Full Stack .NET Developer And Malware Analyst***
+
+- 💬 Ask me about **Full Stack Development & Malware Analysis**
 
 - 👨‍💻 All of my projects are available at  [Check Them Out ](https://husseinadel7.github.io/huss3del.github.io/)
 
 - 📝 I regularly write articles on [Check Them Out ](https://husseinadel7.github.io/huss3del.github.io/categories/#blogs)
 
-- 💬 Ask me about **Full Stack Development & Malware Analysis**
-
 - 📫 How to reach me **husseinadelhhh@gmail.com**
 
 - 📄 Know about my experiences ( My CV )==> [Check It Out ](https://drive.google.com/file/d/1hoxdCMrM8OCPzBQEBp0fjUEPbnl696yw/view?usp=sharing)
 <br>
-<h1 align="left">Connect With Me :</h1>
+<h1 align="left">Connect With Me </h1>
 <p align="left">
 <a href="https://linkedin.com/in/hussein-adel-b46783280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-adel-b46783280" height="30" width="40" /></a>
 <a href="https://twitter.com/7usseinadel7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7usseinadel7" height="30" width="40" /></a>
