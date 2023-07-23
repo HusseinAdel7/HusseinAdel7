@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/7usseinadel7" target="blank"><img src="https://img.shields.io/twitter/follow/7usseinadel7?logo=twitter&style=for-the-badge" alt="7usseinadel7" /></a> </p>
 
-- 🌱 I’m currently learning **.Net Track And Malware Analysis**
+- 🌱 I’m a **Full Stack .NET Developer And Malware Analyst**
 
-- 👨‍💻 All of my projects are available at [https://husseinadel7.github.io/huss3del.github.io/](https://husseinadel7.github.io/huss3del.github.io/)
+- 👨‍💻 All of my projects are available at [Check Them Out ](https://github.com/HusseinAdel7/Networking-Labs/tree/main/My%20Labs)
 
 - 📝 I regularly write articles on [https://husseinadel7.github.io/huss3del.github.io/categories/#Blogs](https://husseinadel7.github.io/huss3del.github.io/categories/#Blogs)
 
