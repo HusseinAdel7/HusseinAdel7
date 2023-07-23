@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hussein Adel</h1>
-<h3 align="center">Full Stack .Net Developer & Malware Analyst</h3>
+<h2 align="center">Full Stack .Net Developer & Malware Analyst</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husseinadel7&label=Profile%20views&color=0e75b6&style=flat" alt="husseinadel7" /> </p>
 <br>
 <img  align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/ocDxgE43TxdsFRRlR1/giphy.gif?cid=ecf05e471p9xzuow3a40by4m995ulirzazu8qttnox03m106&ep=v1_gifs_related&rid=giphy.gif&ct=g"> 
@@ -9,7 +9,7 @@
 
 <h1 align="left">About Me :</h1>
 
-- 🌱 I’m a **Full Stack .NET Developer And Malware Analyst**
+- 🌱 I’m a ***Full Stack .NET Developer And Malware Analyst***
 
 - 👨‍💻 All of my projects are available at  [Check Them Out ](https://husseinadel7.github.io/huss3del.github.io/)
 
